@@ -21,6 +21,27 @@ With the mission of caring for the elderly living alone, we drive the research a
 
 ## Introduction of Board Members
 
+![avatar](images/傅学长.jpg)
+
+### 
+
+![avatar](images/董学姐.jpg)
+
+### 
+
+![avatar](images/阮哥哥.jpg)
+
+###
+
+![avatar](images/陶学长.jpg)
+
+###
+
+![avatar](images/魏学姐.jpg)
+
+###
+
+![avatar](images/赖颂宁.jpg)
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
 
