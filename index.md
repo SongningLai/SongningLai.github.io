@@ -21,6 +21,10 @@ Our products cover many fields such as emotion recognition and health monitoring
 
 With the mission of caring for the elderly living alone, we drive the research and development and promotion of whole-house intelligent system products through innovative technology. Team work is our core value, we put the user experience first principle, always reliable. We encourage our employees to continue to learn and grow, while taking social responsibility and actively participating in public welfare activities. Our goal is to provide a convenient, safe and comfortable living environment for elderly people living alone, so that they can feel care and warmth. By adhering to these values, we continue to innovate and bring more well-being and value to the elderly living alone and to society.
 
+## We are looking for people with lofty ideals!
+
+<img src="images/zhaomu.png" width = "750" height = "1300" alt="Zexin Fu" align=center />
+
 ## Introduction of Board Members
 
 
