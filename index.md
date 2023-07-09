@@ -4,7 +4,7 @@ layout: page
 
 # Guangzhou Zhijia Co., LTD
 
-<img src="images/logo灰色.png" class="floatpic" width="360" height="480">
+<img src="images/logo灰色.png" class="floatpic" width="1000" height="150">
 
 Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
