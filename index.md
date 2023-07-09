@@ -4,7 +4,7 @@ layout: page
 
 # Guangzhou Zhijia Co., LTD
 
-<img src="images/logo灰色.png" class="floatpic" width="1000" height="150">
+<img src="images/logo灰色.png" class="floatpic" width="3000" height="450">
 
 <br>
 
