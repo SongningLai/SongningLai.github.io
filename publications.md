@@ -26,7 +26,7 @@ title: Publications
 
 # Interpretability of The System
 
-<img src="images/kjs.png" width = "900" height = "350" alt="Zexin Fu" align=center />
+<img src="images/kjs.png" width = "1200" height = "470" alt="Zexin Fu" align=center />
 
 <img src="images/keshihuaxl4.png" width = "1400" height = "1400" alt="Zexin Fu" align=center />
 
