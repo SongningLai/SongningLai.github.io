@@ -8,25 +8,21 @@ title: Projects
 
 # Product Display
 
-## SmartClip
+## SmartClip & SmartAgent
 
-需要一个魏学姐的动画
-
-<br>
-
-## SmartAgent
-
-需要一个魏学姐的动画
+![image](images/MyVideo_1.gif)
 
 <br>
 
 ## SmartVison UI Interface
 
-![image](https://github.com/SongningLai/SongningLai.github.io/blob/main/images/UIdemo.gif)
+
+
+
+![image](images/UIdemo.gif)
 
 <br>
 
-<br>
 
 ---
 
