@@ -61,7 +61,7 @@ title: Publications
 <br>
 
 ---
-# [Technical Document](publications/images/PosterTemplate1_01.png)
+# [Technical Document](publications/images/Smarthome__中文版0709.pdf)
 
 <br>
 
