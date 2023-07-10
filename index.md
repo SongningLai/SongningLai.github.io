@@ -12,7 +12,8 @@ layout: page
 
 <br>
 
-<div align=center>![image](images/UIdemo.gif)
+
+![image](images/UIdemo.gif)
 
 <br>
 
