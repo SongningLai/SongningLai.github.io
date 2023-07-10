@@ -6,7 +6,7 @@ title: Awards
 
 # Business Analysis Report
 
-等陶学长的“结论”“表格”“图片”
+Wait for update！
 
 <br>
 
@@ -15,7 +15,7 @@ title: Awards
 
 # Financial Report
 
-等陶学长的“结论”“表格”“图片”
+Wait for update！
 
 
 <br>
