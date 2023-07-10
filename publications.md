@@ -6,28 +6,64 @@ title: Publications
 
 # Product Technology Poster
 
-<img src="images/logo灰色.png" width = "3000" height = "450" alt="Zexin Fu" align=center />
+<img src="images/PosterTemplate1_01.png" width = "2150" height = "160" alt="Zexin Fu" align=center />
 
-
-Lastest Update: 3rd July 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
-
-## Undergrad Thesis
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu)<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab<br>
-
-## Conference Paper
-
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
+<br>
 
 ---
 
-## Competition Paper
+# Multimodal Sentiment Analysis System
 
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (COMAP 2023)<br>**Finalist Award** (Top 1% of all 20858 paper).<br>
+<img src="images/anhao.png" width = "950" height = "350" alt="Zexin Fu" align=center />
 
-## Working Manuscript
+<img src="images/xl3.png" width = "950" height = "350" alt="Zexin Fu" align=center />
 
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach.<br>**Hanlin Cai** (Advisor: [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and Chin Hong Wong)<br>[The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (during 2022 Summer Intern at Cambridge University)<br>
+<img src="images/result1.png" width = "950" height = "200" alt="Zexin Fu" align=center />
+
+<br>
+
+---
+
+# Interpretability of The System
+
+<img src="images/kjs.png" width = "900" height = "350" alt="Zexin Fu" align=center />
+
+<img src="images/keshihuaxl4.png" width = "1400" height = "1400" alt="Zexin Fu" align=center />
+
+<img src="images/keshihuaxl1.png" width = "1000" height = "340" alt="Zexin Fu" align=center />
+
+<img src="images/keshihuaxl5.png" width = "1000" height = "340" alt="Zexin Fu" align=center />
+
+<img src="images/keshihuaxl6.png" width = "1000" height = "340" alt="Zexin Fu" align=center />
+
+<img src="images/keshihuaxl7.png" width = "1000" height = "340" alt="Zexin Fu" align=center />
+
+<img src="images/keshihuaxl8.png" width = "1000" height = "340" alt="Zexin Fu" align=center />
+
+<img src="images/keshihuaxl9.png" width = "1000" height = "340" alt="Zexin Fu" align=center />
+
+<img src="images/result2.png" width = "831" height = "260" alt="Zexin Fu" align=center />
+
+<br>
+
+---
+
+# Hardware Acceleration
+
+<img src="images/fu1.png" width = "694" height = "711" alt="Zexin Fu" align=center />
+
+<img src="images/fu2.png" width = "554" height = "329" alt="Zexin Fu" align=center />
+
+<img src="images/fu3.png" width = "950" height = "350" alt="Zexin Fu" align=center />
+
+<img src="images/fu4.png" width = "1138" height = "732" alt="Zexin Fu" align=center />
+
+<br>
+
+---
+# [Technical Document](publications/images/PosterTemplate1_01.png)
+
+<br>
+
+---
 
