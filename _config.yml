@@ -35,11 +35,9 @@ links:
   - title: Company
     url: /
   - title: Product
-    url: /product/
+    url: /projects/
   - title: Technology
     url: /publications/
-  - title: Projects
-    url: /projects/
   - title: Fiance
     url: /awards/
   - title: Legal
