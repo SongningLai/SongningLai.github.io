@@ -6,7 +6,7 @@ title: Publications
 
 # Product Technology Poster
 
-<img src="images/PosterTemplate1_01.png" width = "2150" height = "160" alt="Zexin Fu" align=center />
+<img src="images/PosterTemplate1_01.png" width = "2150" height = "1600" alt="Zexin Fu" align=center />
 
 <br>
 
