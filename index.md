@@ -17,6 +17,13 @@ layout: page
 
 <br>
 
+<br>
+
+
+![image](images/MyVideo_1.gif)
+
+<br>
+
 ## Company Introduction
 
 **Guangzhou Zhijia Co., Ltd. is a company dedicated to the development and production of whole-house intelligent systems. We focus on providing innovative products and solutions for elderly people living alone, with a mission to care for their physical and mental health.
