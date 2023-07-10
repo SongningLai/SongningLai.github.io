@@ -7,7 +7,7 @@ url: https://songninglai.github.io/
 # Owner/author information
 owner:
   name: SMARTHOME
-  avatar: logo.png
+  avatar: images/fav.jpg
 #  bio:
   email: smarthome@smarthome.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -32,9 +32,9 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Company Introduction
+  - title: Company
     url: /
-  - title: Product Introduction
+  - title: Product
     url: /product/
   - title: Technology
     url: /publications/
