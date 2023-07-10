@@ -12,19 +12,19 @@ title: Projects
 
 需要一个魏学姐的动画
 
+<br>
+
 ## SmartAgent
 
 需要一个魏学姐的动画
 
-## SmartVison
+<br>
 
+## SmartVison UI Interface
 
-<img src="images/wei1.png" width = "750" height = "450" alt="Zexin Fu" align=center />
+<iframe height=500 width=500 src="image/UIdemo.gif">
 
-
-## UI Interface
-
-需要一个魏学姐的UI界面动画
+<br>
 
 <br>
 
