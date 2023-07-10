@@ -7,14 +7,14 @@ layout: page
 <img src="images/logo灰色.png" width = "3000" height = "450" alt="Zexin Fu" align=center />
 <br>
 
-Here is **SMARTHOME**.
+**Here is SMARTHOME.**
 
 <br>
 
 ## Company Introduction
 
-Guangzhou Zhijia Co., Ltd. is a company dedicated to the development and production of whole-house intelligent systems. We focus on providing innovative products and solutions for elderly people living alone, with a mission to care for their physical and mental health.
-Our products cover many fields such as emotion recognition and health monitoring, aiming to help elderly people living alone enjoy a more convenient, safe and comfortable life. By combining the latest technology and intelligent equipment, we are committed to providing a better living environment and more comprehensive health management for the elderly.
+**Guangzhou Zhijia Co., Ltd. is a company dedicated to the development and production of whole-house intelligent systems. We focus on providing innovative products and solutions for elderly people living alone, with a mission to care for their physical and mental health.
+Our products cover many fields such as emotion recognition and health monitoring, aiming to help elderly people living alone enjoy a more convenient, safe and comfortable life. By combining the latest technology and intelligent equipment, we are committed to providing a better living environment and more comprehensive health management for the elderly.**
 
 <br>
 
@@ -22,7 +22,7 @@ Our products cover many fields such as emotion recognition and health monitoring
 
 ## Company Culture
 
-With the mission of caring for the elderly living alone, we drive the research and development and promotion of whole-house intelligent system products through innovative technology. Team work is our core value, we put the user experience first principle, always reliable. We encourage our employees to continue to learn and grow, while taking social responsibility and actively participating in public welfare activities. Our goal is to provide a convenient, safe and comfortable living environment for elderly people living alone, so that they can feel care and warmth. By adhering to these values, we continue to innovate and bring more well-being and value to the elderly living alone and to society.
+**With the mission of caring for the elderly living alone, we drive the research and development and promotion of whole-house intelligent system products through innovative technology. Team work is our core value, we put the user experience first principle, always reliable. We encourage our employees to continue to learn and grow, while taking social responsibility and actively participating in public welfare activities. Our goal is to provide a convenient, safe and comfortable living environment for elderly people living alone, so that they can feel care and warmth. By adhering to these values, we continue to innovate and bring more well-being and value to the elderly living alone and to society.**
 
 <br>
 
