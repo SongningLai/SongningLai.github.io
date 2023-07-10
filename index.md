@@ -4,10 +4,15 @@ layout: page
 
 # Guangzhou Zhijia Co., LTD
 
-<img src="images/logo灰色.png" width = "3000" height = "450" alt="Zexin Fu" align=center />
+
+
+![image](images/UIdemo.gif)
+
 <br>
 
 **Here is SMARTHOME.**
+
+<img src="images/" width = "3000" height = "450" alt="Zexin Fu" align=center />
 
 <br>
 
