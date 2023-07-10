@@ -18,7 +18,7 @@ title: Projects
 
 ## SmartVison
 
-<img src="images/wei1.png" width = "3000" height = "450" alt="Zexin Fu" align=center />
+<img src="images/wei1.png" width = "750" height = "450" alt="Zexin Fu" align=center />
 
 <br>
 
@@ -35,15 +35,13 @@ title: Projects
 # Selling
 
 
-<img src="images/xiaoshouhaibao.png" width = "3000" height = "450" alt="Zexin Fu" align=center />
+<img src="images/xiaoshouhaibao.png" width = "1700" height = "2600" alt="Zexin Fu" align=center />
 
 <br>
 
 ---
 
-<br>
 
----
 
 
 
