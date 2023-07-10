@@ -10,7 +10,9 @@ layout: page
 
 **Here is SMARTHOME.**
 
-![image](images/UIdemo.gif)
+<br>
+
+<div align=center>![image](images/UIdemo.gif)
 
 <br>
 
