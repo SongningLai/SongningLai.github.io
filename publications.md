@@ -4,7 +4,10 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-# Publications
+# Product Technology Poster
+
+<img src="images/logo灰色.png" width = "3000" height = "450" alt="Zexin Fu" align=center />
+
 
 Lastest Update: 3rd July 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
 
