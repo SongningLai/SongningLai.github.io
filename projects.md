@@ -18,7 +18,14 @@ title: Projects
 
 ## SmartVison
 
+
 <img src="images/wei1.png" width = "750" height = "450" alt="Zexin Fu" align=center />
+
+<img src="images/logo灰色.png" width = "3000" height = "450" alt="Zexin Fu" align=center />
+
+## UI Interface
+
+需要一个魏学姐的UI界面动画
 
 <br>
 
