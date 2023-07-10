@@ -22,7 +22,7 @@ title: Projects
 
 ## SmartVison UI Interface
 
-<iframe height=500 width=500 src="image/UIdemo.gif">
+<iframe rc="[image/UIdemo.gif](https://github.com/SongningLai/SongningLai.github.io/blob/main/images/UIdemo.gif)">
 
 <br>
 
