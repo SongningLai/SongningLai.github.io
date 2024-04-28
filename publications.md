@@ -55,6 +55,7 @@ RA, Advisor: Prof.Yutao Yue ----HKUST(GZ)@AI Thrust
 - XAI
 - LLM
 - VLM
+- AI4Science/XAI4Science
 
 ## Privacy-Awareness, Responsibility and Trustworthy (PART) Lab
 
@@ -73,7 +74,9 @@ Research Intern, Advisor: [Zhi Liu](https://faculty.sdu.edu.cn/liuzhi1/zh_CN/ind
 
 - Bioinformatics
 - Multimodal
-- 
+- AI4Science
+
+  
 ## Shandong University Signal Processing and Artificial Intelligence Research Institute
 
 2023.3 --- 2023.6
