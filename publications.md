@@ -46,18 +46,28 @@ Lastest Update: 25th Feb 2024.
 
 #  RESEARCH EXPERIENCES
 
+## Deep Interdisciplinary Intelligence Lab
+
+2024.4 --- Present
+
+RA, Advisor: Prof.Yutao Yue ----HKUST(GZ)@AI Thrust
+
+- XAI
+- LLM
+- VLM
+
 ## Privacy-Awareness, Responsibility and Trustworthy (PART) Lab
 
-2023.4 --- Present
+2023.4 --- 2024.3
 
-Research Intern, Advisor: [Prof. Di Wang](https://cemse.kaust.edu.sa/cs/people/person/di-wang) ----KAUST
+Visting Student, Advisor: [Prof. Di Wang](https://cemse.kaust.edu.sa/cs/people/person/di-wang) ----KAUST
 
 - XAI
 - LLM
 
 ## Shandong University Intelligent Medical Information Processing Research Center
 
-2022.8 --- Present
+2022.8 --- 2023.4
 
 Research Intern, Advisor: [Zhi Liu](https://faculty.sdu.edu.cn/liuzhi1/zh_CN/index/538797/list/index.htm) ---Shandong University
 
