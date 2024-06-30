@@ -35,6 +35,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## News and Update
 
+- **Jun 2024 :** Our paper on Community Detection was accepted by [Neurocomputing](https://arxiv.org/pdf/2309.11798)(JCR Q1; CCF C).
 - **Mar 2024 :**  I am awarded the honor of **excellent graduate of Shandong Province** and **excellent graduate of Shandong University**.
 - **Mar 2024 :** Our paper on MSA was accepted by [**IJCNN2024**](https://www.google.com/search?q=ijcnn2024&oq=IJCNN&gs_lcrp=EgZjaHJvbWUqBggCECMYJzIGCAAQRRg9MgYIARBFGDsyBggCECMYJzIGCAMQABgeMgYIBBBFGDsyBggFEAAYHjIGCAYQRRg9MgYIBxBFGDzSAQg0MzIyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)(CCF C).
 - **Jan 2024 :** Our paper on [faithful label free CBM](https://openreview.net/forum?id=rp0EdI8X4e) was accepted by [**ICLR 2024**](https://openreview.net/group?id=ICLR.cc/2024/Conference)(CCF None).
