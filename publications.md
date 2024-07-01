@@ -39,7 +39,7 @@ Lastest Update: 25th Feb 2024.
 
 ## Preprint
 
-[TimeSieve: Extracting Temporal Dynamics through Information Bottleneck](https://arxiv.org/pdf/2406.05036)
+[TimeSieve: Extracting Temporal Dynamics through Information Bottleneck](https://arxiv.org/pdf/2406.05036).[\[code\]](https://github.com/xll0328/TimeSieve)
 <br> Ninghui Feng†, **Songning Lai†**, Fobao Zhou, Zhenxiao Yin, Hang Zhao~
 
 
