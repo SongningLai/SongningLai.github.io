@@ -22,7 +22,14 @@ Lastest Update: 25th Feb 2024.
 - [Shared and private information learning in multimodal sentiment analysis with deep modal alignment and self-supervised multi-task learning](https://arxiv.org/pdf/2305.08473)
 <br>**Songning Lai†**, Jiakang Li†, Guinan Guo, Xifeng Hu, Yulong Li, Yuan Tan, Zichen Song, Yutong Liu, Zhaoxia Ren~, Chun Wang~, Danmin Miao~ and Zhi Liu~<br> **IJCNN2024** (CCF C)
 
+- [FTS: A Framework to Find a Faithful TimeSieve](https://arxiv.org/pdf/2405.19647)
+<br>**Songning Lai†**, Ninghui Feng†, Haochen Sui, Ze Ma, Hao Wang, Zichen Song, Hang Zhao, Yutao Yue~<br> **IJCAI2024 workshop** (CCF A)
+
 ## Journal
+
+- [A Comprehensive Review of Community Detection in Graphs](https://arxiv.org/pdf/2309.11798)
+<br>Jiakang Li†, **Songning Lai†**, Zhihao Shuai, Yuan Tan, Yifan Jia, Mianyang Yu, Zichen Song, Xiaokang Peng, Ziyang Xu, Yongxin Ni, Haifeng Qiu, Jiayu Yang, Yutong Liu, Yonggang Lu~<br>
+**Accepted** in the journal **Neurocomputing** (JCR Q1(IF:5.5) CCF C)
 
 - Multimodal Sentiment Analysis: A Survey. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0141938223001968) <br>**Songning Lai**, Haoxuan Xu, Xifeng Hu, Zhaoxia Ren~ and Zhi Liu~<br>
 **Accepted** in the journal **Displays**(JCR Q1(IF:4.3)).
@@ -30,13 +37,18 @@ Lastest Update: 25th Feb 2024.
 - Cross-domain car detection model with integrated convolutional block attention mechanism. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0262885623002081) <br>Haoxuan Xu†, **Songning Lai†** and Yang Yang~<br>
 **Accepted** in the journal **Image and Vision Computing** (JCR Q1(IF:4.7) CCF C).
 
+## Preprint
+
+[TimeSieve: Extracting Temporal Dynamics through Information Bottleneck](https://arxiv.org/pdf/2406.05036)
+<br> Ninghui Feng†, **Songning Lai†**, Fobao Zhou, Zhenxiao Yin, Hang Zhao~
+
 
 ## Under review paper
-- first or co-first author: NIPS2024 * 3; Neurocomputing * 1; BMC bioinformatic * 1
-- other author: NIPS2024 * 1
+- first or co-first author: NIPS2024 * 3; Neurocomputing * 1; BMC bioinformatic * 1; VLDB2025*1
+
 
 ## Working paper
-- Some projects about XAI/LLM will be submitted to NIPS2024/EMNLP2024/ICLR2024
+- Some projects about XAI/LLM will be submitted to NIPS2024/EMNLP2024/ICLR2025/KDD2025/VLDB2025/AAAI2025
 
 **If you want to collaborate on the project, please email me.**
 
