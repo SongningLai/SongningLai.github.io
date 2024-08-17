@@ -22,7 +22,7 @@ Lastest Update: 15th Aug 2024.
 - [Shared and private information learning in multimodal sentiment analysis with deep modal alignment and self-supervised multi-task learning](https://arxiv.org/pdf/2305.08473)
 <br>**Songning Lai†**, Jiakang Li†, Guinan Guo, Xifeng Hu, Yulong Li, Yuan Tan, Zichen Song, Yutong Liu, Zhaoxia Ren~, Chun Wang~, Danmin Miao~ and Zhi Liu~<br> **IJCNN2024** (CCF C)
 
-- [FTS: A Framework to Find a Faithful TimeSieve](https://arxiv.org/pdf/2405.19647)
+- FTS: A Framework to Find a Faithful TimeSieve.
 <br>**Songning Lai†**, Ninghui Feng†, Haochen Sui, Ze Ma, Hao Wang, Zichen Song, Hang Zhao, Yutao Yue~<br> **IJCAI2024 workshop** (CCF A)
 
 ## Journal
